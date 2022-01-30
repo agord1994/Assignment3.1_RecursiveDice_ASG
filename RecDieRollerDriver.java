@@ -1,4 +1,11 @@
-
+/**
+ * 
+ * 
+ * This class is the test class for the RecDieRoller class. This class finds the average amount of times the dice lands on two out of a thousand
+ * @author Andrew Gordon
+ *
+ * CS215ON
+ */
 public class RecDieRollerDriver{
 	static double NumberofTwos;
 	static double avg;
